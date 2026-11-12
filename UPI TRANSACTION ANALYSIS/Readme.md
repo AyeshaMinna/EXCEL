@@ -56,3 +56,18 @@ The dashboard converts raw UPI transaction data into meaningful visual insights,
 * Data Visualization
 * Dashboard Development
 * Business Insights
+
+## 📂 Project File
+
+The complete Excel project file (45 MB) includes:
+
+Dashboard: Interactive UPI Transaction Analytics Dashboard with visual insights.
+
+Dataset: Raw UPI transaction data used for analysis.
+
+Pivot Tables: Supporting PivotTables used to create the dashboard visualizations.
+
+The complete Excel workbook is hosted on Google Drive due to its file size.
+
+Click here to view/download the Excel project:-
+https://drive.google.com/drive/folders/1uqIbQalG-3fP6b6L7SrCdoPLNQJIS28V?usp=sharing
